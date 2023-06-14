@@ -1,2 +1,2 @@
 # andan_project
-В этом проекте мы решили поработать с мультиклассификацией текстов. Идея заключалась в создании модели котрая способна выделять тему задачи основываясь на её тексте. Для парсинга данных мы используем сайт https://iloveeconomics.ru - самый крупный в СНГ сборник задач (котрым сами пользовались в своё время)
+In this project, we decided to work on multiclass text classification. The idea was to create a model capable of identifying the topic of a task based on its text. For data parsing, we used the website https://iloveeconomics.ru, which is the largest collection of problems in the CIS (which we ourselves used in the past)
